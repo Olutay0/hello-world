@@ -1,2 +1,3 @@
 # hello-world
-a small program
+
+Hi my name is Tayo Ayodele. I will be making a few changes to this program. 
